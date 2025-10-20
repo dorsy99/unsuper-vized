@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'UnSuper-Vized'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = "dark"
+    ShowShareButtons = true
+    ShowReadingTime = true
+    ShowPostNavLinks = true
+
+
+
+[[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+    weight = 10
+
+[[menu.main]]
+    identifier = "prompts"
+    name = "Prompts"
+    url = "/prompts"
+    weight = 20

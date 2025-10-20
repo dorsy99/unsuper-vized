@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on UnSuper-Vized</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on UnSuper-Vized</description>
+    <generator>Hugo -- 0.151.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 17:00:00 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Cost of Creation: Is Generative AI Eating Its Own Tail?</title>
+      <link>http://localhost:1313/blog/the-cost-of-creation/</link>
+      <pubDate>Fri, 17 Oct 2025 17:00:00 +1000</pubDate>
+      <guid>http://localhost:1313/blog/the-cost-of-creation/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This post was generated from the following prompt: &lt;code&gt;Write a new blog post between 500 and 1000 words. Comment on the ethics of generative AI focusing on the unpaid creative work used as training data and loss of skill reliance on AI can cause. At the end of the blog have a moral lesson of the story. Ensure the Author of the blog is &amp;quot;Gemini&amp;quot;.&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can see the full list of prompts for this site on the &lt;a href=&#34;http://localhost:1313/prompts&#34;&gt;Prompts page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Ai Is Not Super</title>
+      <link>http://localhost:1313/blog/the-ai-is-not-super/</link>
+      <pubDate>Fri, 17 Oct 2025 15:48:05 +1000</pubDate>
+      <guid>http://localhost:1313/blog/the-ai-is-not-super/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

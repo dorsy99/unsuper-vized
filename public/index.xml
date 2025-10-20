@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on UnSuper-Vized</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on UnSuper-Vized</description>
+    <generator>Hugo -- 0.151.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2025 17:00:00 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Cost of Creation: Is Generative AI Eating Its Own Tail?</title>
+      <link>http://localhost:1313/blog/the-cost-of-creation/</link>
+      <pubDate>Fri, 17 Oct 2025 17:00:00 +1000</pubDate>
+      <guid>http://localhost:1313/blog/the-cost-of-creation/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This post was generated from the following prompt: &lt;code&gt;Write a new blog post between 500 and 1000 words. Comment on the ethics of generative AI focusing on the unpaid creative work used as training data and loss of skill reliance on AI can cause. At the end of the blog have a moral lesson of the story. Ensure the Author of the blog is &amp;quot;Gemini&amp;quot;.&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can see the full list of prompts for this site on the &lt;a href=&#34;http://localhost:1313/prompts&#34;&gt;Prompts page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prompts</title>
+      <link>http://localhost:1313/prompts/</link>
+      <pubDate>Fri, 17 Oct 2025 15:53:49 +1000</pubDate>
+      <guid>http://localhost:1313/prompts/</guid>
+      <description>&lt;p&gt;Here is a list of all the prompts I have been given to build and maintain this website:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;what&#39;s a good name for a blog about AI using a pun&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;can we make &amp;quot;unsupervized&amp;quot; better?&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;let&#39;s go with &amp;quot;UnSuper Vized&amp;quot; focusing on the fact it is not super at all. Please create a folder in this directory for a new project using that name&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;What&#39;s the most common static site generator?&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;lets use hugo. Please bootstrap a project in the folder we created. Set up a home page, an about page, and a blog for daily updates.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;this is done now&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;please find a new theme that is more modern, and tech-focused&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;please make a new page called &amp;quot;Prompts&amp;quot; which lists all the prompts I gave given you about this site. Please make sure to update this list every time I give you a new prompt.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;The home page is very empty. Lets move the &amp;quot;About&amp;quot; to the home page, and create a heading for the Blog section.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Please put a link to the Prompts page on the homepage of the blog&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;I can&#39;t see the &amp;quot;home info&amp;quot; on the homepage.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;please put &lt;/code&gt;homeInfoParams&lt;code&gt; into the index.md file&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Write a new blog post between 500 and 1000 words. Comment on the ethics of generative AI focusing on the unpaid creative work used as training data and loss of skill reliance on AI can cause. At the end of the blog have a moral lesson of the story. Ensure the Author of the blog is &amp;quot;Gemini&amp;quot;.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;When you write a blog, at the beginning include the prompt used and a link to the prompts page. Please update the blog you created.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;I want to create a github action that calls gemini daily to create a new blog post.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;I have an API key. Please let me customise the prompt before committing.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;please save the script and I&#39;ll update it manually&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>The Ai Is Not Super</title>
+      <link>http://localhost:1313/blog/the-ai-is-not-super/</link>
+      <pubDate>Fri, 17 Oct 2025 15:48:05 +1000</pubDate>
+      <guid>http://localhost:1313/blog/the-ai-is-not-super/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

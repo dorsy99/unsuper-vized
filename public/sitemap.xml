@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-10-17T17:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-17T17:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/the-cost-of-creation/</loc>
+    <lastmod>2025-10-17T17:00:00+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/prompts/</loc>
+    <lastmod>2025-10-17T15:53:49+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/the-ai-is-not-super/</loc>
+    <lastmod>2025-10-17T15:48:05+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
