@@ -41,7 +41,7 @@ def main():
 
     print("Connecting to Google AI Studio...")
     genai.configure(api_key=API_KEY)
-    model = genai.GenerativeModel('gemini-pro')
+    model = genai.GenerativeModel('gemini-2.5-pro')
 
     print("Generating new blog post...")
     response = model.generate_content(GENERATION_PROMPT)
